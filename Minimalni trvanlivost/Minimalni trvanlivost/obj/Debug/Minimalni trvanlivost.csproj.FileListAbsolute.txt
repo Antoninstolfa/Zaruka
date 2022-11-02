@@ -1,0 +1,10 @@
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\bin\Debug\Minimalni trvanlivost.exe.config
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\bin\Debug\Minimalni trvanlivost.exe
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\bin\Debug\Minimalni trvanlivost.pdb
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\obj\Debug\Minimalni trvanlivost.csprojAssemblyReference.cache
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\obj\Debug\Minimalni_trvanlivost.Form1.resources
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\obj\Debug\Minimalni_trvanlivost.Properties.Resources.resources
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\obj\Debug\Minimalni trvanlivost.csproj.GenerateResource.cache
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\obj\Debug\Minimalni trvanlivost.csproj.CoreCompileInputs.cache
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\obj\Debug\Minimalni trvanlivost.exe
+C:\Users\stolfaa.04\Desktop\Minimalni trvanlivost\Minimalni trvanlivost\obj\Debug\Minimalni trvanlivost.pdb

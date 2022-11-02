@@ -1,0 +1,10 @@
+C:\Users\stolfaa.04\Desktop\záruka\záruka\obj\Debug\záruka.csprojAssemblyReference.cache
+C:\Users\stolfaa.04\Desktop\záruka\záruka\obj\Debug\záruka.Form1.resources
+C:\Users\stolfaa.04\Desktop\záruka\záruka\obj\Debug\záruka.Properties.Resources.resources
+C:\Users\stolfaa.04\Desktop\záruka\záruka\obj\Debug\záruka.csproj.GenerateResource.cache
+C:\Users\stolfaa.04\Desktop\záruka\záruka\obj\Debug\záruka.csproj.CoreCompileInputs.cache
+C:\Users\stolfaa.04\Desktop\záruka\záruka\bin\Debug\záruka.exe.config
+C:\Users\stolfaa.04\Desktop\záruka\záruka\bin\Debug\záruka.exe
+C:\Users\stolfaa.04\Desktop\záruka\záruka\bin\Debug\záruka.pdb
+C:\Users\stolfaa.04\Desktop\záruka\záruka\obj\Debug\záruka.exe
+C:\Users\stolfaa.04\Desktop\záruka\záruka\obj\Debug\záruka.pdb
